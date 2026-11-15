@@ -1,0 +1,13 @@
+# Personal config (use config.example.txt as a template)
+config.txt
+
+# User's base wallpaper image (personal / possibly copyrighted)
+wallpaper.jpg
+wallpaper.jpeg
+wallpaper.png
+wallpaper.bmp
+
+# Runtime outputs
+scripts/current_wallpaper.png
+scripts/applied_wallpaper.png
+scripts/wallpaper.log
